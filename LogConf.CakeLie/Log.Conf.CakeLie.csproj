@@ -7,8 +7,8 @@
     <ProjectGuid>{9F5FBB50-7C0E-48D8-9DA5-B4349EC2EBFB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LogConf.CakeLie</RootNamespace>
-    <AssemblyName>LogConf.CakeLie</AssemblyName>
+    <RootNamespace>Common.Log.Conf.CakeLie</RootNamespace>
+    <AssemblyName>Common.Log.Conf.CakeLie</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -59,7 +59,9 @@
     <None Include="NLog.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="packages.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

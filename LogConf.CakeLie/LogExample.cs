@@ -1,6 +1,6 @@
-﻿namespace LogConf.CakeLie
+﻿namespace Common.Log.Conf.CakeLie
 {
-    using Common.Logging;
+    using Logging;
 
     /// <summary>
     /// LogExample - пример записи в лог
