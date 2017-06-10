@@ -1,7 +1,7 @@
-﻿namespace Testing.TestLogicProjNUnit
+﻿namespace Testing.TestLogicProj.NUnit
 {
+    using global::NUnit.Framework;
     using LogicProj;
-    using NUnit.Framework;
 
     [TestFixture]
     public class TestLogicClass
