@@ -1,12 +1,16 @@
-﻿namespace Testing.TestLogicProj.NUnit
+﻿namespace Testing.TestLogicProjNUnit
 {
+    using LogicProj;
+    using NUnit.Framework;
+
     [TestFixture]
     public class TestLogicClass
     {
         [Test]
         public void Sum()
         {
-            LogicClass
+            var logic = new LogicClass();
+            Assert.That(logic.Sum(3, 4), Is.EqualTo(7));
         }
     }
 }

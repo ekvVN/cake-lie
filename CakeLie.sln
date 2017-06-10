@@ -33,7 +33,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Protocol", "Protocol", "{A7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtStructs", "ProtStructs\ProtStructs.csproj", "{647541E1-5089-4897-B80F-44604A73253D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLogicProj.NUnit", "TestLogicProj.NUnit\TestLogicProj.NUnit.csproj", "{6564C94B-8A31-48B9-B7F6-F3C0016A8713}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLogicProjNUnit", "TestLogicProj.NUnit\TestLogicProjNUnit.csproj", "{6564C94B-8A31-48B9-B7F6-F3C0016A8713}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonProj", "CommonProj\CommonProj.csproj", "{805FA2E7-46D2-437F-B141-FFD0A872EEEF}"
 EndProject
