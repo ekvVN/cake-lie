@@ -8,11 +8,11 @@
         /// <summary>
         /// Имя файла конфигурации адаптера
         /// </summary>
-        private const string ConfigFileName = "LogAdapter.NLog41.config";
+        private const string AdapterConfigFileName = "LogAdapter.NLog41.config";
 
         public static void Init()
         {
-            LogManager.Reset(new ConfigurationReader(ConfigFileName));
+            LogManager.Reset(new ConfigurationReader(AdapterConfigFileName));
         }
     }
 }
