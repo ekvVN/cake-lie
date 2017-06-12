@@ -7,8 +7,8 @@
     <ProjectGuid>{9F5FBB50-7C0E-48D8-9DA5-B4349EC2EBFB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Common.Log.Conf.CakeLie</RootNamespace>
-    <AssemblyName>Common.Log.Conf.CakeLie</AssemblyName>
+    <RootNamespace>Common.Logging.Conf.ExampleNLog</RootNamespace>
+    <AssemblyName>Common.Logging.Conf.ExampleNLog</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

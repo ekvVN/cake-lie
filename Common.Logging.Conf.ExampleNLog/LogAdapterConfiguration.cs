@@ -1,7 +1,7 @@
-﻿namespace Common.Log.Conf.CakeLie
+﻿namespace Common.Logging.Conf.ExampleNLog
 {
     using Logging;
-    using Logging.Org;
+    using Org;
 
     public static class LogAdapterConfiguration
     {

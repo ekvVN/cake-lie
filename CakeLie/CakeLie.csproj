@@ -74,9 +74,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\LogConf.CakeLie\Log.Conf.CakeLie.csproj">
+    <ProjectReference Include="..\Common.Logging.Conf.ExampleNLog\Common.Logging.Conf.ExampleNLog.csproj">
       <Project>{9F5FBB50-7C0E-48D8-9DA5-B4349EC2EBFB}</Project>
-      <Name>Log.Conf.CakeLie</Name>
+      <Name>Common.Logging.Conf.ExampleNLog</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,8 +1,8 @@
 ﻿namespace CakeLie
 {
     using System.Windows.Forms;
-    using Common.Log.Conf.CakeLie;
     using Common.Logging;
+    using Common.Logging.Conf.ExampleNLog;
 
     public partial class Form1 : Form
     {
