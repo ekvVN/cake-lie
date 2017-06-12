@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Windows.Forms;
-
-namespace CakeLie
+﻿namespace CakeLie
 {
+    using System;
+    using System.Windows.Forms;
+
     static class Program
     {
         /// <summary>
